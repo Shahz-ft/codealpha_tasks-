@@ -30,7 +30,7 @@ Screens Included:
 
 
 * Wireframe
-  ![SkillIT UI](Task2_HighFidelity_UI/SkillIT_UI.png "C:\Users\shaha\OneDrive\Desktop\designs\Skill'IT - Online Learning Platform..png") 
+  ![SkillIT UI](Task_1_wireframe_Skill'IT.png) 
 * Figma Design Link
   https://www.figma.com/design/XL1SCrfKz9gMz5TAqfYAH3/Untitled?node-id=0-1&t=kpmWlk6J52MDcqxz-1 
 
@@ -50,7 +50,7 @@ Features:
 
 
 * High-Fidelity Design PDF
-   ![SkillIT UI](Task_2_High fidelity_Skill'IT.png)
+   ![SkillIT UI](Task_2_Highfidelity_Skill'IT.png)
 * Figma Design Link
   https://www.figma.com/design/XL1SCrfKz9gMz5TAqfYAH3/Skill-IT---Online-Learning-Platform?node-id=28-459&t=a5tQmX44Oym49cqK-1 
 
