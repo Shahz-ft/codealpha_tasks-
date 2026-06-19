@@ -50,7 +50,7 @@ Features:
 
 
 * High-Fidelity Design PDF
-   ![SkillIT UI](Task2_HighFidelity_UI/SkillIT_UI.png)
+   ![SkillIT UI](Task_2_High fidelity_Skill'IT.png)
 * Figma Design Link
   https://www.figma.com/design/XL1SCrfKz9gMz5TAqfYAH3/Skill-IT---Online-Learning-Platform?node-id=28-459&t=a5tQmX44Oym49cqK-1 
 
@@ -67,7 +67,7 @@ Welcome → Login/Sign Up → Home → Browse Courses → Course Details → My 
 
 * Interactive Prototype Link - https://www.figma.com/proto/XL1SCrfKz9gMz5TAqfYAH3/Skill-IT---Online-Learning-Platform?node-id=28-460&p=f&t=Jy9sRDC0a9pkcGxI-1&scaling=scale-down&content-scaling=fixed&page-id=28%3A459&starting-point-node-id=28%3A460  
 
-* Design Explanation Report - [View Prototype Report](Task4_Interactive_Prototype/Task4_Report.pdf)
+* Design Explanation Report - [View Prototype Report](Task_4_Skill'it_REPORT.pdf)
 
 ---
 
@@ -107,3 +107,5 @@ https://www.figma.com/proto/XL1SCrfKz9gMz5TAqfYAH3/Skill-IT---Online-Learning-Pl
 ## Thank You
 
 Thank you to CodeAlpha for providing this opportunity to learn and apply UI/UX design concepts through practical projects.
+
+
